@@ -1,0 +1,8 @@
+{
+  "name": "InfraMind AI",
+  "description": "Multimodal AI copilot preventing excavation accidents by analyzing satellite imagery, street photos, scanned utility maps, permits, and historical records to generate utility risk assessments.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
